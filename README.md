@@ -4,4 +4,4 @@
 
 Install JSON Server globally
 
-Run npm install -g json-server
+Run `npm install -g json-server`
