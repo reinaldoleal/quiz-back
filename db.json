@@ -1,0 +1,25 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "title": "First",
+            "question": "Quantos anos você tem?",
+            "type": "number",
+			"list": []
+        },
+        {
+            "id": 2,
+            "title": "Second",
+            "question": "Em qual cidade você mora?",
+            "type": "string",
+			"list": []
+        },
+        {
+            "id": 3,
+            "title": "Third",
+            "question": "Qual é o seu sexo?",
+            "type": "list",
+			"list": ["Masculino", "Feminino"]
+        }
+    ]
+}
